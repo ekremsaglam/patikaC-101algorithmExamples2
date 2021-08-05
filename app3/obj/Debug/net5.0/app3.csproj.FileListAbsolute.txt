@@ -1,0 +1,16 @@
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\algorithmExample2\app3\bin\Debug\net5.0\app3.exe
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\algorithmExample2\app3\bin\Debug\net5.0\app3.deps.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\algorithmExample2\app3\bin\Debug\net5.0\app3.runtimeconfig.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\algorithmExample2\app3\bin\Debug\net5.0\app3.runtimeconfig.dev.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\algorithmExample2\app3\bin\Debug\net5.0\app3.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\algorithmExample2\app3\bin\Debug\net5.0\ref\app3.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\algorithmExample2\app3\bin\Debug\net5.0\app3.pdb
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\algorithmExample2\app3\obj\Debug\net5.0\app3.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\algorithmExample2\app3\obj\Debug\net5.0\app3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\algorithmExample2\app3\obj\Debug\net5.0\app3.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\algorithmExample2\app3\obj\Debug\net5.0\app3.AssemblyInfo.cs
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\algorithmExample2\app3\obj\Debug\net5.0\app3.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\algorithmExample2\app3\obj\Debug\net5.0\app3.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\algorithmExample2\app3\obj\Debug\net5.0\ref\app3.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\algorithmExample2\app3\obj\Debug\net5.0\app3.pdb
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\algorithmExample2\app3\obj\Debug\net5.0\app3.genruntimeconfig.cache
